@@ -211,7 +211,6 @@ Generate flashcards for the following text on the subject of '{subject}':
 ├── llm_handler_hf.py   # Hugging Face API & prompt logic
 ├── requirements.txt    # Dependency list
 ├── .gitignore          # Files to ignore in Git
-├── .env.example        # Example for API token handling
 └── README.md           # You're reading it!
 ```
 
